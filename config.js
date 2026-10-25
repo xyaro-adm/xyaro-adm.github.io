@@ -9,6 +9,9 @@ window.DCARGO_CONFIG = {
   // Клуб «Акулы» — ссылка на вход
   sharksUrl: 'https://t.me/tribute/app?startapp=sMgf',
 
+  // Бот клуба «Акулы» — ник без @. Дони после расчёта называет цену в клубе и даёт этого бота
+  sharksBot: 'akulycargobot',
+
   // Менеджер в Telegram — ник без @
   managerTelegram: 'doncargo_help',
 
