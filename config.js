@@ -10,7 +10,7 @@ window.DCARGO_CONFIG = {
   sharksUrl: 'https://t.me/tribute/app?startapp=sMgf',
 
   // Менеджер в Telegram — ник без @
-  managerTelegram: 'doncargo_admin',
+  managerTelegram: 'doncargo_help',
 
   // Менеджер в WhatsApp — номер только цифрами, с кодом страны: 79991234567.
   // Пока пусто — кнопки WhatsApp на сайте не показываются.
