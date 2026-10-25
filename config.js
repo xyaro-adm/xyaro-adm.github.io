@@ -6,8 +6,8 @@ window.DCARGO_CONFIG = {
   // Открытый Telegram-канал Дона Карго
   channelUrl: 'https://t.me/don_cargo',
 
-  // Клуб «Акулы» — ссылка на вход
-  sharksUrl: 'https://t.me/tribute/app?startapp=sMgf',
+  // Клуб «Акулы» — ссылка на вход: кнопки клуба, меню и подвал
+  sharksUrl: 'https://t.me/akulycargobot',
 
   // Бот клуба «Акулы» — ник без @. Дони после расчёта называет цену в клубе и даёт этого бота
   sharksBot: 'akulycargobot',
