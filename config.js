@@ -3,6 +3,9 @@
   Меняются без пересборки: правите, сохраняете, обновляете страницу.
 */
 window.DCARGO_CONFIG = {
+  // Основной адрес сайта — для Яндекса и Google: canonical, sitemap.xml. Меняется — пересобрать сайт
+  siteUrl: 'https://don-cargo.com',
+
   // Открытый Telegram-канал Дона Карго
   channelUrl: 'https://t.me/don_cargo',
 
