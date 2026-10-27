@@ -9,8 +9,11 @@ window.DCARGO_CONFIG = {
   // Открытый Telegram-канал Дона Карго
   channelUrl: 'https://t.me/don_cargo',
 
-  // Instagram Дона Карго — полная ссылка. Его видят поисковики и ИИ-ассистенты (на страницах сайта не показывается)
-  instagramUrl: '',
+  // Соцсети Дона Карго — полные ссылки. Показываются в подвале сайта и в разметке для поисковиков и ИИ.
+  // Пусто — ссылка не показывается
+  instagramUrl: 'https://www.instagram.com/doncargowhite/',
+  youtubeUrl: 'https://www.youtube.com/@Don_Cargo',
+  tiktokUrl: 'https://www.tiktok.com/@don_cargo',
 
   // Клуб «Акулы» — ссылка на вход: кнопки клуба, меню и подвал
   sharksUrl: 'https://t.me/akulycargobot',
