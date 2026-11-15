@@ -6,6 +6,10 @@ window.DCARGO_CONFIG = {
   // Основной адрес сайта — для Яндекса и Google: canonical, sitemap.xml. Меняется — пересобрать сайт
   siteUrl: 'https://don-cargo.com',
 
+  // Ключ IndexNow — сайт сам сообщает Яндексу и Bing об обновлениях (scripts/indexnow.mjs).
+  // Ключ публичный: он же лежит на сайте файлом /<ключ>.txt. Пусто — IndexNow выключен
+  indexNowKey: 'be01ba5e0d4d8780c3fb8c1b9401fd9f',
+
   // Открытый Telegram-канал Дона Карго
   channelUrl: 'https://t.me/don_cargo',
 
@@ -22,7 +26,7 @@ window.DCARGO_CONFIG = {
   sharksBot: 'akulycargobot',
 
   // Менеджер в Telegram — ник без @
-  managerTelegram: 'doncargo_help',
+  managerTelegram: 'managerDona',
 
   // Менеджер в WhatsApp — номер только цифрами, с кодом страны: 79991234567.
   // Пока пусто — кнопки WhatsApp на сайте не показываются.
