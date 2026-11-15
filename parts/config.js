@@ -7,7 +7,7 @@ window.PARTS_CONFIG = {
   brandName: 'D PARTS',
 
   // Менеджер в Telegram — ник без @. Ему уходит заявка с готовым текстом
-  managerTelegram: 'doncargo_help',
+  managerTelegram: 'managerDona',
 
   // Telegram-канал. Пусто — ссылка не показывается
   channelUrl: 'https://t.me/don_cargo',
